@@ -1,0 +1,32 @@
+#main{
+    margin:auto;
+	width:370px;
+	height:420px;
+	border: 2px dashed brown;
+	background-color:#FFFFFF;
+	color:#000000;
+	padding:10px;
+	font-family:"Times New Roman", Times, serif;
+	text-transform:uppercase;
+}
+
+.row>div{
+	display:inline-block;
+	margin: 10px 20px;
+	font-size:30px;
+	text-align:center;
+}
+
+.row>div:first-child{
+	float:left;
+	text-align:left;
+}
+
+.row>div:last-child{
+	float:right;
+	text-align:right;
+}
+
+.on{
+	color:#FF0000;
+}

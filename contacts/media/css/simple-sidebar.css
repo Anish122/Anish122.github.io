@@ -1,0 +1,98 @@
+
+#page-content-wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+
+a .icon-github, .icon-linkedin, .icon-twitter, .icon-facebook, .icon-envelope, .icon-google-plus, .icon-mobile-phone {
+text-decoration: none;
+}
+.icon-github, .icon-linkedin, .icon-twitter, .icon-facebook, .icon-envelope, .icon-google-plus, .icon-mobile-phone {
+color: #C0C0C0; 
+margin-left: 15px;
+transition: all 0.3s ease 0.1s;
+text-decoration: none;
+}
+.icon-mobile-phone:hover{
+ color: #000;
+  text-decoration: none;
+}
+.icon-linkedin:hover {
+  color: #65B7D2;
+  text-decoration: none;
+}
+.icon-twitter:hover {
+color: #45B0E3;
+text-decoration: none;
+}
+
+.icon-facebook:hover {
+color: #45B0E3;
+text-decoration: none;
+}
+
+.icon-github:hover {
+color: #333333;
+text-decoration: none;
+}
+.icon-envelope:hover {
+  color: #F56122;
+  text-decoration: none;
+}
+.icon-google-plus:hover {
+  color: #F53B22;
+  text-decoration: none;
+}
+
+.content-header {
+  margin: 0;
+  margin-top: 60px;
+  margin-left:100px;
+  line-height: 65px;
+  text-align: center;
+  display: inline-block;
+}
+.small_content {
+  
+  font-size: 20px;
+  font-family: sans-serif, helvetica, Arial;
+  color: #401006;
+  text-align: center;
+}
+
+.owner {
+  
+  font-size: 70px;
+  font-family: sans-serif, helvetica, Arial;
+  color: #433333;
+  text-align: center;
+}
+
+#navi {
+  margin-top: 100px;
+ 
+  margin-left: 100px;
+  margin-right: 100px;  
+ // border-top: 2px solid #DEDEDC;
+  border-bottom: 4px solid #DEDEDC;
+}
+
+footer {
+margin-top:240px;
+padding-top: 3px;
+}
+.footer-text {
+text-align: center;
+padding: 5px;
+font-size: 16px;
+font-family: 'Lato', sans-serif;font-family: 'Bitter', serif;
+}
+
+#social-icons {
+	margin-top: 35px;
+}
+
+#social-icons a {
+  text-decoration: none;
+}
